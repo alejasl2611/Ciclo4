@@ -1,0 +1,23 @@
+{
+  "name": "crud-node",
+  "version": "1.0.0",
+  "description": "Inmobiliaria nodejs",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejasl2611/Ciclo4.git"
+  },
+  "author": "Software Masters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejasl2611/Ciclo4/issues"
+  },
+  "homepage": "https://github.com/alejasl2611/Ciclo4#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
